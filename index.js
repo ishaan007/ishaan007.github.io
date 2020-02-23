@@ -1,6 +1,6 @@
 CLASSES = {
-  0: 'Alma Matter',
-  1: 'Jefferson',
+  1: 'Alma Matter',
+  0: 'Jefferson',
   2: 'Lion'
 };
 
